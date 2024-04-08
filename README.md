@@ -4,7 +4,7 @@ web development and distributed systems. Also interested in AI, ML and statistic
 # 🌱 I’m currently learning
 about distributed systems and furthering my knowledge in statistics and mathematics
 # 💞️ I’m looking to collaborate on
-No projects currently. Currently, working full time as a software developer at Societe Generale
+No projects for the time being. Currently, working full time as a software developer at Societe Generale
 # 📫 How to reach me: 
 By email: piggott291@gmail.com
 
